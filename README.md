@@ -1,2 +1,9 @@
-# julian-arandia-portfolio
-Mi portafolio de proyectos: un espacio en evolución para evidenciar cómo aplico y mejoro mis habilidades en tecnología y análisis.
+# Portafolio de Habilidades de Datos - Julian Arandia
+
+## Proyectos de Analista de Datos
+
+### 1. Análisis de Estrategia de Marketing con SQL y Python
+
+- **Descripción:** Un análisis completo de datos de ventas y marketing para evaluar la rentabilidad de las campañas, calcular métricas clave como el ROMI y el LTV, y ofrecer recomendaciones estratégicas para optimizar la inversión publicitaria.
+- **Tecnologías usadas:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Google Colab.
+- **Enlace al proyecto:** [Ver Repositorio](https://github.com/julianarandia/sql-business-analysis)
