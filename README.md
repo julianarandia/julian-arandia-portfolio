@@ -1,4 +1,4 @@
-# Portafolio de Habilidades de Datos - Julian Arandia
+# Portafolio de Proyectos: Una Travesía en Datos y Tecnología
 
 ## Proyectos de Analista de Datos
 
