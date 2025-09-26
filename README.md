@@ -29,6 +29,7 @@ This project focuses on applying **SQL and Python** for in-depth business analys
 ## Contact Information
 
 I am always open to discussing new projects, exchanging ideas on data analytics, or connecting about professional opportunities. Feel free to reach out!
-- [LinkedIn](https://www.linkedin.com/in/julianarandia/)  
 - ✉️ Email: principalarandia@gmail.com
+- LinkedIn: [julianarandia](https://www.linkedin.com/in/julianarandia/)  
+
 
