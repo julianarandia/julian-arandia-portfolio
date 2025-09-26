@@ -8,14 +8,14 @@ Welcome to my portfolio! This space is a **living testament to my continuous dev
 
 The following projects and skills are featured in this portfolio:
 
-* [SQL Business Analysis](#1-SQL-Business-Analysis)
+* [SQL Business Analysis](#SQL-Business-Analysis)
 * [Contact Information](#contact-information)
 
 ---
 
 ## 📊 Projects
 
-### 1. SQL Business Analysis
+### SQL Business Analysis
 
 This project focuses on applying **SQL and Python** for in-depth business analysis. The goal was to extract, clean, and manipulate transaction data to generate **actionable insights** supporting strategic decision-making in a marketing environment.
 
