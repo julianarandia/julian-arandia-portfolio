@@ -13,7 +13,7 @@ The following projects and skills are featured in this portfolio:
 
 ---
 
-## 📊 Projects
+## Projects
 
 ### SQL Business Analysis
 
