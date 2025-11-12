@@ -27,6 +27,17 @@ This project focuses on applying **SQL and Python** for in-depth business analys
 
 ---
 
+### Web Traffic Simulation & Performance Analytics
+
+Este proyecto se centró en la aplicación de **Python** (Pandas, NLTK) para el análisis de rendimiento de contenido. El objetivo fue simular, limpiar y agrupar métricas de tráfico web para **correlacionar el engagement** (Tiempo en Página) con la **estrategia de palabras clave** en un entorno de Marketing Digital.
+
+- **Key Highlights:** Este análisis identificó que la estrategia "**Guía Completa de Optimización**" es la más eficaz para generar engagement, revelando una fuerte correlación entre las palabras clave técnicas (**API**, **Analytics**) y el mejor rendimiento de contenido.
+- **Technologies Used:** Python (Pandas, NLTK), Data Simulation, Web Analytics KPIs.
+- **Project Status:** Active.
+- **Link to Repository:** [View Full Project](https://github.com/julianarandia/web-traffic-simulation-analytics)
+
+---
+
 ## Contact Information
 
 I am always open to discussing new projects, exchanging ideas on data analytics, or connecting about professional opportunities. Feel free to reach out!
