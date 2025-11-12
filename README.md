@@ -9,6 +9,7 @@ Welcome to my portfolio! This space is a **living testament to my continuous dev
 The following projects and skills are featured in this portfolio:
 
 * [SQL Business Analysis](#SQL-Business-Analysis)
+* [Web Traffic Simulation & Performance Analytics](#2-web-traffic-simulation-&-performance-analytics)
 * [Contact Information](#contact-information)
 
 ---
