@@ -10,7 +10,7 @@ The following projects and skills are featured in this portfolio:
 
 * [SQL Business Analysis](#SQL-Business-Analysis)
 * [YouTube Trending Dashboard](#YouTube-Trending-Dashboard)
-* [Web Traffic Simulation & Performance Analytics](#web-traffic-simulation-&-performance-analytics)
+* [Web Traffic Simulation & Performance Analytics](#Web-Traffic-Simulation-&-Performance-Analytics)
 * [Contact Information](#contact-information)
 
 ---
