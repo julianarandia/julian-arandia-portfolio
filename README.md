@@ -39,7 +39,7 @@ This project focused on the **construction and automation** of an interactive Ta
 
 ---
 
-### Web Traffic Simulation y Performance Analytics
+### Web Traffic Simulation & Performance Analytics
 
 This project focused on the application of **Python (Pandas, NLTK)** for content performance analysis. The objective was to simulate, clean, and aggregate web traffic metrics to **correlate user engagement** (Time on Page) with **keyword strategy** within a Digital Marketing environment.
 
